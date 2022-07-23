@@ -1,0 +1,17 @@
+API Key
+5IX21GeVfvjJHPGcED3aeLaYW
+
+API Key Secret
+5ZEbAHaRx8tk5i8DW1mJMaKrfXuJhTnEPT3HgPAoqNJGb5XfrR
+
+Bearer Token
+AAAAAAAAAAAAAAAAAAAAAE3ReAEAAAAAwa2QDbB4pxR3Htb3sv2Hy0aNcBw%3D99NiHY2buJM9a6n21hGtO1Nv83vxTEfTvmX4j3CKkTU01t6Zu9
+
+Client ID
+ZnR4dk5MQ1RvU3JwcXBHeHNueFM6MTpjaQ
+
+Client Secret
+FpVFniZnNefFojXqGRs5r2jrxe0xopuKrGIMG6dIdTmp_BkxLI
+
+D:\Builds\twitter-clone\sanity>sanity start
+D:\Builds\twitter-clone> npm run dev
